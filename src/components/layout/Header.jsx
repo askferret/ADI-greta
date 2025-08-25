@@ -27,13 +27,13 @@ const Header = ({ onMobileMenuToggle, isMobileMenuOpen }) => {
         {/* Logo */}
         <div className="flex items-center space-x-3">
           <div className="w-8 h-8 bg-gradient-to-br from-primary-500 to-primary-700 rounded-lg flex items-center justify-center">
-            <span className="text-white font-bold text-sm">DS</span>
+            <span className="text-white font-bold text-sm">ADI</span>
           </div>
           <h1 className="text-lg sm:text-xl font-bold text-gray-900 dark:text-white hidden sm:block">
-            Design Strategy Advisor
+            Adaptive Design Intelligence
           </h1>
           <h1 className="text-lg font-bold text-gray-900 dark:text-white sm:hidden">
-            DSA
+            ADI
           </h1>
         </div>
 

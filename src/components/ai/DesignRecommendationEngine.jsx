@@ -1,3 +1,5 @@
+/* The above code is a React component called `DesignRecommendationEngine` that displays AI-driven
+design recommendations in a grid layout. */
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';
 import SafeIcon from '../../common/SafeIcon';

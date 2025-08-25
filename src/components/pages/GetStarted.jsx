@@ -12,7 +12,7 @@ const GetStarted = () => {
   const steps = [
     {
       id: 'welcome',
-      title: 'Welcome to Design Strategy Advisor',
+      title: 'Welcome to ADI Adaptive Design Intelligence',
       description: 'Get familiar with the platform and its capabilities',
       icon: FiPlay,
       color: 'blue',
@@ -20,7 +20,7 @@ const GetStarted = () => {
         <div className="space-y-4">
           <h3 className="text-lg font-semibold text-gray-900 dark:text-white">Welcome!</h3>
           <p className="text-gray-600 dark:text-gray-400">
-            Design Strategy Advisor helps you make data-driven design decisions for your healthcare platform. 
+            ADI Adaptive Design Intelligence helps you make data-driven design decisions for your healthcare platform. 
             Let's get you set up for success.
           </p>
           <div className="bg-blue-50 dark:bg-blue-900/20 p-4 rounded-lg">
@@ -169,7 +169,7 @@ const GetStarted = () => {
         <div>
           <h1 className="text-2xl font-bold text-gray-900 dark:text-white">Get Started</h1>
           <p className="text-gray-600 dark:text-gray-400 mt-1">
-            Complete your onboarding journey and unlock the full potential of Design Strategy Advisor
+            Complete your onboarding journey and unlock the full potential of ADI Adaptive Design Intelligence
           </p>
         </div>
         <div className="text-sm text-gray-600 dark:text-gray-400">

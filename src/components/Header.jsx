@@ -28,7 +28,7 @@ const Header = () => {
               <div className="w-8 h-8 bg-primary-600 rounded-full flex items-center justify-center">
                 <span className="text-white font-bold text-lg">A</span>
               </div>
-              <span className="text-xl font-bold text-gray-900">Strategic Compass</span>
+              <span className="text-xl font-bold text-gray-900">ADI Adaptive Design Intelligence</span>
             </div>
           </Link>
         </div>
